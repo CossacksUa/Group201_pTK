@@ -1,4 +1,4 @@
-h1 {
+h1:nth-of-type(20) {
     color: #3877ec;
     font-size: 62px;
     margin-bottom: 10px;
